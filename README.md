@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=Junha's%20Github%20&animation=fadeIn&fontColor=ffffff&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=Junha's%20Github%20&animation=fadeIn&fontColor=1983e6&fontSize=90" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -11,7 +11,9 @@
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-      
+          </div>
+
+    
   
 
     
