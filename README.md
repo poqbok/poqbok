@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/be1bdbe7-eb74-4d9d-b0be-97ecfaa5624e" />
+</div>
+
 
 <!--
 **poqbok/poqbok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
