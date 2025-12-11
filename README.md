@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=Junha's%20Github%20&animation=fadeIn&fontColor=000000&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=Junha's%20Github%20&animation=fadeIn&fontColor=ffffff&fontSize=90" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -13,10 +13,7 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Junha&bg_color=180,00000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junha&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
-           /> </div> 
+  
     </div>
     
 <!--
