@@ -1,8 +1,10 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/be1bdbe7-eb74-4d9d-b0be-97ecfaa5624e" />
 </div>
-
-
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+</div>
 <!--
 **poqbok/poqbok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
