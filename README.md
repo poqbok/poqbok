@@ -8,12 +8,7 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           </div>
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Junha's Github&bg_color=180,000000,&title_color=6a9eff&text_color=6a9eff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junha's Github&layout=compact&bg_color=180,000000,&title_color=6a9eff&text_color=6a9eff"
-           /> </div> 
-    </div>
-    
+
     
     
   
